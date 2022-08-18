@@ -3,4 +3,5 @@
     ヘッダー2
   </header>
 コンポーネント2
+  <x-test-class-base classBaseMessage="メッセージです" />
 </x-tests.app>
